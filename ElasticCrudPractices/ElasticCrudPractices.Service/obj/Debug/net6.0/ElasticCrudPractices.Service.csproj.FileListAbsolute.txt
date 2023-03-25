@@ -1,0 +1,12 @@
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/bin/Debug/net6.0/ElasticCrudPractices.Service.deps.json
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/bin/Debug/net6.0/ElasticCrudPractices.Service.dll
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/bin/Debug/net6.0/ElasticCrudPractices.Service.pdb
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.csproj.AssemblyReference.cache
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.AssemblyInfoInputs.cache
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.AssemblyInfo.cs
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.csproj.CoreCompileInputs.cache
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.dll
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/refint/ElasticCrudPractices.Service.dll
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ElasticCrudPractices.Service.pdb
+/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Service/obj/Debug/net6.0/ref/ElasticCrudPractices.Service.dll

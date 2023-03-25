@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "S2T6uCnN/s7rhp5s4y+F9RtUBWoSyTedYgpp2MboNuoCVqwDAvrK6fBa5TiR17D8JR6nNEELRawOu0swt+9F8w==",
+  "success": true,
+  "projectFilePath": "/Users/vivense/Documents/Other/Practices/dotNet/ElasticCrudPractices/ElasticCrudPractices.Api/ElasticCrudPractices.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/vivense/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/elasticsearch.net/7.17.5/elasticsearch.net.7.17.5.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/mapster/7.4.0-pre06/mapster.7.4.0-pre06.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/mapster.core/1.2.1-pre04/mapster.core.1.2.1-pre04.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.extensions.configuration/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.configuration.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.2.23128.3/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.extensions.options/8.0.0-preview.2.23128.3/microsoft.extensions.options.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.2.23128.3/microsoft.extensions.primitives.8.0.0-preview.2.23128.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/nest/7.17.5/nest.7.17.5.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "/Users/vivense/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

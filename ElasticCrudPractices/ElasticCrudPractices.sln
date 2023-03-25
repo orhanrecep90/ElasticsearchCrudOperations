@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticCrudPractices.Service", "ElasticCrudPractices.Service\ElasticCrudPractices.Service.csproj", "{97AA0820-5152-4014-9C36-6AD08D40689B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticCrudPractices.Api", "ElasticCrudPractices.Api\ElasticCrudPractices.Api.csproj", "{1912666D-E918-4013-BDCB-7FA0D2DE7231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97AA0820-5152-4014-9C36-6AD08D40689B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AA0820-5152-4014-9C36-6AD08D40689B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AA0820-5152-4014-9C36-6AD08D40689B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AA0820-5152-4014-9C36-6AD08D40689B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1912666D-E918-4013-BDCB-7FA0D2DE7231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1912666D-E918-4013-BDCB-7FA0D2DE7231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1912666D-E918-4013-BDCB-7FA0D2DE7231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1912666D-E918-4013-BDCB-7FA0D2DE7231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
